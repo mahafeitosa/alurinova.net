@@ -1,5 +1,3 @@
-## alurinova.net
-
 <p>
   <a href="#" target="_blank">
     <picture>
@@ -10,27 +8,8 @@
   </a>
 </p>
 
-## Title
+## alurinova.net
 
-Text
+Alurinova 
 
-[Read more](https://picocss.com/docs/v2)
-
-## List
-
-- Class-light and Semantic
-- Great Styles with Just CSS
-- Responsive Everything
-- Light or Dark Mode
-- Easy Customization
-- Optimized Performance
-
-## List with links
-
-- [Quick start](#quick-start)
-- [Class-less version](#class-less-version)
-- [Limitations](#limitations)
-- [Documentation](#documentation)
-- [Browser Support](#browser-support)
-- [Contributing](#contributing)
-- [Copyright and license](#copyright-and-license)
+[Read more](https://github.com/mahafeitosa)
